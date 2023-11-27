@@ -1,0 +1,16 @@
+.list {
+  list-style: none;
+}
+
+.list-default {
+  font-size: 1.6rem;
+  color: #999;
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.list a:link,
+.list a:visited,
+.list a:active {
+  text-decoration: none;
+}
